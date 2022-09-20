@@ -11,10 +11,14 @@ As we can't remember everything, users frequently forget to buy the things they 
 ## Description
 This app has an easy and simple to understand user interface so that a novice user can also use this app. User can enter the name of the item along with it's quantity and price of single item that they want to buy. This app then automatically calculate the total cost of a particular item using these information. User can also add multiple items with varying quantity and prices. This app also provides user to delete a particular item if they does not want to buy them. Thus giving a free environment to the user to add and delete items according to their ease.
 
+## Download apk
+[Grocery App Download](https://github.com/UJAIR-SHAHA/Grocery_Application/releases/download/V.1/app-debug.apk)
+
 ## App User Interface
 
 <p float = "left">
 <img src="https://user-images.githubusercontent.com/107527307/191357808-c85343a6-b25d-4ced-95b2-90039aaf0466.png" width="150" height="280">
 <img src="https://user-images.githubusercontent.com/107527307/191357914-636cbde6-6be9-4082-941f-4a310157633d.png" width="150" height="280">
   </p>
+  
 
